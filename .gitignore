@@ -1,8 +1,8 @@
 .DS_Store
-/qiankun-base/node_modules
-/qiankun-sub-vue2/node_modules
-/qiankun-base/dist
-/qiankun-sub-vue2/dist
+./qiankun-base/node_modules
+./qiankun-sub-vue2/node_modules
+./qiankun-base/dist
+./qiankun-sub-vue2/dist
 
 
 # local env files
